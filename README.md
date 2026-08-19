@@ -1,4 +1,4 @@
-# Hi, I'm HISTIGMA 👋
+# Hi, I'm DaeGeon 👋
 
 **Data Engineer · Backend Developer**
 
@@ -24,7 +24,7 @@ I build **backend and AI/NLP systems** that turn data into real, usable services
 
 ---
 
-### 💼 Experience & Projects
+### 💼 Experience & Projects (3 Year~)
 
 **NLP / AI Data Engineer**
 
@@ -34,6 +34,8 @@ Developed asynchronous processing systems using **Django REST Framework, Celery,
 **Project / Backend Developer**
 
 Designed and developed a **B2B software platform**, covering REST APIs, data processing automation, web scraping, infrastructure, and Windows application development.
+
+**Freelancer / IT Education**
 
 ---
 
@@ -53,3 +55,4 @@ Designed and developed a **B2B software platform**, covering REST APIs, data pro
 * LangChain
 * Vector search
 
+---
