@@ -7,15 +7,14 @@ I build **backend and AI/NLP systems** that turn data into real, usable services
 ---
 
 ### 💻 Tech Stack Summary
-
 * Python · Django REST Framework · FastAPI · Flask
 * PostgreSQL · MariaDB · Redis · Neo4j
-* Celery · Pandas · Selenium
-* Asynchronous Processing · Data Pipelines
+* Celery · Pandas, Asynchronous Processing · Data Pipelines ...
 * LLMs · RAG · NLP · Text Mining
 * Azure OpenAI · OpenAI
 * LangChain · NLTK
 * **Microsoft Azure**(OpenAI · RAG · EventHub · ServiceBus · API Management ...)
+* Oracle Cloud / AWS
 * Docker · Linux
 * Nginx · Apache
 * GitHub Actions · CI/CD
