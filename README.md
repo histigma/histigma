@@ -24,7 +24,7 @@ I build **backend and AI/NLP systems** that turn data into real, usable services
 
 ---
 
-### 💼 Experience & Projects (3 Year~)
+### 💼 Experience & Projects
 
 **NLP / AI Data Engineer**
 
