@@ -1,58 +1,29 @@
-# Hi, I'm DaeGeon 👋
-
-**Data Engineer · Backend Developer**
-
-I build **backend and AI/NLP systems** that turn data into real, usable services.
+**Lee Daegeon**  
+IT Instructor | BE·Data·Cloud
 
 ---
 
-### 💻 Tech Stack Summary
-* Python · Django REST Framework · FastAPI · Flask
-* PostgreSQL · MariaDB · Redis · Neo4j
-* Celery · Pandas, Asynchronous Processing · Data Pipelines ...
-* LLMs · RAG · NLP · Text Mining
-* Azure OpenAI · OpenAI
-* LangChain · NLTK
-* **Microsoft Azure**(OpenAI · RAG · EventHub · ServiceBus · API Management ...)
-* Oracle Cloud / AWS
-* Docker · Linux
-* Nginx · Apache
-* GitHub Actions · CI/CD
-* Vue.js · Vite
-* Git · GitHub
-* Jira · Confluence
+## 💻 Tech Stack
 
----
+**Languages & Backend**
+`Python` `Django REST Framework` `FastAPI` `Celery`
 
-### 💼 Experience & Projects
+**AI / NLP / Data**
+`LLMs` `RAG` `NLP` `Text Mining` `LangChain` `Neo4j` `Azure OpenAI` `Azure AI Search`
 
-**NLP / AI Data Engineer**
+**Data Engineering & Cloud (Microsoft Azure)**
+`Azure Databricks` `Azure Data Factory` `Azure Data Lake Storage` `Azure Event Hubs` `Azure Stream Analytics` `Azure API Management` `Azure Service Bus` `Azure Functions` `Azure SQL` `Microsoft Fabric`
 
-Built large-scale data pipelines for **unstructured document processing and NLP data engineering**, including data extraction, refinement, transformation, and RAG dataset preparation.
-Developed asynchronous processing systems using **Django REST Framework, Celery, and Redis**, and modeled relationships between document, sentence, and token data using **Neo4j**.
+**Infra & Databases**
+`PostgreSQL` `MariaDB` `Redis` `Docker` `Linux` `Nginx` `AWS / Oracle Cloud` `GitHub Actions`
 
-**Project / Backend Developer**
+**Productivity / Low-Code**
+`MS Power BI` `Power Apps` `Power Automate` `SharePoint` `MS Copilot Studio` `M365 Agent`
 
-Designed and developed a **B2B software platform**, covering REST APIs, data processing automation, web scraping, infrastructure, and Windows application development.
+**Web(FE)**
+`React/Vue.js` `Web Design`
 
-**Freelancer / IT Education**
-
----
-
-**Azure-based Real-time Data & AI Service**
-
-* Real-time data streaming and processing
-* Azure Event Hubs / Stream Analytics
-* Azure PostgreSQL / Blob Storage
-* Vue.js dashboard
-* AI-powered analysis and RAG services
-
-**Azure Document RAG**
-
-* Document ingestion and processing
-* Azure OpenAI
-* FastAPI
-* LangChain
-* Vector search
+**Tools**
+`Git` `GitHub` `Jira` `Confluence` `Figma`
 
 ---
