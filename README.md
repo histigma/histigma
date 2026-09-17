@@ -1,9 +1,7 @@
 **Lee Daegeon**  
 IT Instructor | BE·Data·Cloud
 
----
-
-## 💻 Tech Stack
+## Summary
 
 **Languages & Backend**
 `Python` `Django REST Framework` `FastAPI` `Celery`
@@ -25,5 +23,3 @@ IT Instructor | BE·Data·Cloud
 
 **Tools**
 `Git` `GitHub` `Jira` `Confluence` `Figma`
-
----
