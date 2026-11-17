@@ -1,5 +1,5 @@
 **Lee Daegeon**  
-IT Instructor | BE·Data·Cloud
+BE·Data·Cloud
 
 ## Summary
 
